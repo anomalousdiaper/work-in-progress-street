@@ -28,31 +28,31 @@ place_model "phase_4/models/props/exteriorfish-zero" [
 	store_node [ "prop" "animated_prop_PetShopFishAnimatedProp" "exteriorfish" ]
 	]
 
-place_model "panda3dstudio/treetall" [
+place_model "modelsimade/treetall" [
 	store_node [ "prop" "pine_tree_tall" "" ]
 	]
 
-place_model "panda3dstudio/treebg" [
+place_model "modelsimade/treebg" [
 	store_node [ "prop" "pine_tree_background" "" ]
 	]
 
-place_model "panda3dstudio/treefat" [
+place_model "modelsimade/treefat" [
 	store_node [ "prop" "pine_tree_fat" "" ]
 	]
 
-place_model "panda3dstudio/mountainbg" [
+place_model "modelsimade/mountainbg" [
 	store_node [ "prop" "mountain_background" "" ]
 	]
 
-place_model "panda3dstudio/treeskinny" [
+place_model "modelsimade/treeskinny" [
 	store_node [ "prop" "pine_tree_skinny" "" ]
 	]
 
-place_model "panda3dstudio/aliceterrain" [
+place_model "modelsimade/aliceterrain" [
 	store_node [ "prop" "terrain_school" "" ]
 	]
 
-place_model "panda3dstudio/10x10grass" [
+place_model "modelsimade/10x10grass" [
 	store_node [ "prop" "10x10_grass" "" ]
 	]
 
