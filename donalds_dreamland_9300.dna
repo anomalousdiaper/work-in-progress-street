@@ -5955,7 +5955,7 @@ group "level" [
     ]
    ]
    prop "prop_stairs_DG_DNARoot" [
-    code [ "prop_stairs_DG" ]
+    code [ "prop_stairs" ]
     pos [ 980.002 -551.995 6.98566e-05 ]
     nhpr [ -90 0 -0 ]
     color [ 0.47 0.49 0.66 1 ]
@@ -6047,8 +6047,8 @@ group "level" [
      ]
     ]
    ]
-   prop "prop_TT_stairs_DNARoot" [
-    code [ "prop_TT_stairs" ]
+   prop "prop_stairs_DG_DNARoot" [
+    code [ "prop_stairs" ]
     pos [ 980.001 -496.995 6.07967e-05 ]
     nhpr [ -90 0 -0 ]
     color [ 0.25 0.25 0.25 1 ]
