@@ -28,6 +28,10 @@ place_model "phase_4/models/props/exteriorfish-zero" [
 	store_node [ "prop" "animated_prop_PetShopFishAnimatedProp" "exteriorfish" ]
 	]
 
+place_model "modelsimade/hedgequad" [
+	store_node [ "prop" "hedge" "" ]
+	]
+
 place_model "modelsimade/treetall" [
 	store_node [ "prop" "pine_tree_tall" "" ]
 	]
