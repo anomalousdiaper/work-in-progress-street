@@ -5582,35 +5582,6 @@ group "donaldsDreamland" [
     scale [ 0.7 0.7 0.7 ]
    ]
   ]
-  flat_building "tb27:random_DNARoot" [
-   pos [ 67.1414 -233.185 2.99993 ]
-   nhpr [ -105 0 -0 ]
-   width [ 15 ]
-   wall [
-    height [ 12 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.47 0.38 0.32 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.31 0.25 0.24 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.47 0.38 0.32 1 ]
-    windows [
-     code [ "window_md_curvedDL_ul" ]
-     color [ 1 1 1 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.25 0.25 0.25 1 ]
-    ]
-   ]
-  ]
   street "str.full_corner_DNARoot" [
    code [ "street_full_corner" ]
    pos [ 4.99931 -164.281 4.95906e-05 ]
@@ -5690,45 +5661,6 @@ group "donaldsDreamland" [
     cornice [
      code [ "cornice_curved_ur" ]
      color [ 0.25 0.25 0.25 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 4.00085 -165.28 2.04636e-12 ]
-   nhpr [ -0 0 -0 ]
-   width [ 25 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curved2DL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
     ]
    ]
   ]
@@ -5872,249 +5804,6 @@ group "donaldsDreamland" [
    pos [ 152.237 -154.507 16.5596 ]
    nhpr [ 15 0 -0 ]
    scale [ 4.38226 4.38226 4.38226 ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 61.1921 -142.652 -3.80218 ]
-   nhpr [ -0 0 -0 ]
-   width [ 20 ]
-   wall [
-    height [ 20 ]
-    code [ "wall_md_blank_ur" ]
-    color [ 0.34 0.25 0.25 1 ]
-    windows [
-     code [ "window_sm_round_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 10 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.31 0.16 0.29 1 ]
-    windows [
-     code [ "window_sm_roundDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 91.135 -115.004 8.7213 ]
-   nhpr [ -60 0 -0 ]
-   width [ 15 ]
-   wall [
-    height [ 20 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.37 0.27 0.36 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.27 0.25 0.35 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 10 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.37 0.27 0.36 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 98.6011 -127.941 8.72127 ]
-   nhpr [ 15 0 -0 ]
-   width [ 15 ]
-   wall [
-    height [ 20 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.31 0.16 0.29 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.27 0.25 0.35 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 10 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.31 0.16 0.29 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 144.83 -127.45 0.343344 ]
-   nhpr [ -0 0 -0 ]
-   width [ 10 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_md_blank_ur" ]
-    color [ 0.26 0.19 0.13 1 ]
-    windows [
-     code [ "window_sm_round_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_square_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_roundDL_ur" ]
-     color [ 1 1 1 1 ]
-     count [ 1 ]
-    ]
-    cornice [
-     code [ "cornice_marble_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 144.875 -117.577 0.343893 ]
-   nhpr [ -90 0 -0 ]
-   width [ 10 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_md_blank_ur" ]
-    color [ 0.47 0.36 0.23 1 ]
-    windows [
-     code [ "window_sm_round_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.47 0.36 0.23 1 ]
-    windows [
-     code [ "window_sm_square_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.47 0.36 0.23 1 ]
-    windows [
-     code [ "window_sm_roundDL_ur" ]
-     color [ 1 1 1 1 ]
-     count [ 1 ]
-    ]
-    cornice [
-     code [ "cornice_marble_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 164.602 -121.286 9.98442 ]
-   nhpr [ -120 0 -0 ]
-   width [ 15 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.39 0.42 0.3 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.39 0.42 0.3 1 ]
-    windows [
-     code [ "window_md_curvedDL_ur" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.39 0.42 0.3 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:random_DNARoot" [
-   pos [ 156.942 -134.308 9.98442 ]
-   nhpr [ -15 0 -0 ]
-   width [ 20 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_md_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
   ]
   flat_building "tb0:random_DNARoot" [
    pos [ 200.5 -149.95 2.87929 ]
@@ -6602,7 +6291,7 @@ group "donaldsDreamland" [
    scale [ 3.33534 3.33534 3.33534 ]
   ]
   flat_building "tb0:flat_DNARoot" [
-   pos [ 63.259 -247.674 2.99993 ]
+   pos [ 63.2591 -247.674 2.99993 ]
    nhpr [ -15 0 -0 ]
    width [ 15 ]
    wall [
@@ -6785,45 +6474,6 @@ group "donaldsDreamland" [
     ]
    ]
   ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ -29.6426 -284.28 -2.27374e-13 ]
-   nhpr [ 45 0 -0 ]
-   width [ 20 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.34 0.25 0.25 1 ]
-    windows [
-     code [ "window_sm_round_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.34 0.25 0.25 1 ]
-    windows [
-     code [ "window_sm_round_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.34 0.25 0.25 1 ]
-    windows [
-     code [ "window_md_curvedDL_ul" ]
-     color [ 1 1 1 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
   street "str.angle_30_DNARoot" [
    code [ "street_angle_30" ]
    pos [ 4.99837 -304.28 -3.41061e-13 ]
@@ -6831,40 +6481,6 @@ group "donaldsDreamland" [
    texture [ "street_street_DL_tex" ]
    texture [ "street_sidewalk_DL_tex" ]
    texture [ "street_curb_DL_tex" ]
-  ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ -15.5007 -270.137 -5.68434e-14 ]
-   nhpr [ 15 0 -0 ]
-   width [ 25 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_md_blank_ur" ]
-    color [ 0.26 0.19 0.13 1 ]
-    windows [
-     code [ "window_sm_square_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_md_blank_dr" ]
-    color [ 0.26 0.19 0.13 1 ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_roundDL_ul" ]
-     color [ 1 1 1 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_marble_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
   ]
   prop "prop_DL_post_one_light_DNARoot" [
    code [ "prop_DL_post_one_light" ]
@@ -6916,70 +6532,6 @@ group "donaldsDreamland" [
    nhpr [ -45 0 -0 ]
    color [ 0.47 0.49 0.66 1 ]
   ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 29.0002 -165.28 7.31836e-19 ]
-   nhpr [ -0 0 -0 ]
-   width [ 25 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curved2DL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 53.9989 -164.28 1.14441e-05 ]
-   nhpr [ -82 0 -0 ]
-   width [ 10 ]
-   wall [
-    height [ 12 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_square_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_square_ur" ]
-     color [ 0.33 0.3 0.29 1 ]
-     count [ 1 ]
-    ]
-   ]
-  ]
   prop "prop_crate_DNARoot" [
    code [ "prop_crate" ]
    pos [ 7.99836 -208.29 -3.41059e-13 ]
@@ -7027,40 +6579,6 @@ group "donaldsDreamland" [
    pos [ 7.99932 -216.291 -3.41052e-13 ]
    nhpr [ -45 0 0 ]
   ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 8.81952 -263.961 2.38738e-12 ]
-   nhpr [ 100 0 0 ]
-   width [ 20 ]
-   wall [
-    height [ 13 ]
-    code [ "wall_md_blank_ur" ]
-    color [ 0.26 0.19 0.13 1 ]
-    windows [
-     code [ "window_sm_square_ur" ]
-     color [ 0.33 0.34 0.3 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 9 ]
-    code [ "wall_md_blank_dr" ]
-    color [ 0.26 0.19 0.13 1 ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_lg_brick_ur" ]
-    color [ 0.25 0.2 0.15 1 ]
-    windows [
-     code [ "window_sm_roundDL_ul" ]
-     color [ 1 1 1 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_marble_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
   prop "prop_DL_post_one_light_DNARoot" [
    code [ "prop_DL_post_one_light" ]
    pos [ 6.99974 -201.291 -3.41052e-13 ]
@@ -7071,64 +6589,6 @@ group "donaldsDreamland" [
    pos [ 0.0235252 -223.548 18.9987 ]
    nhpr [ 105 0 0 ]
    color [ 0.5 0.5 0.5 1 ]
-  ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 5.49481 -244.78 -2.27376e-13 ]
-   nhpr [ 90 0 -0 ]
-   width [ 20.7 ]
-   wall [
-    height [ 20 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.31 0.16 0.29 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.27 0.25 0.35 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 10 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.31 0.16 0.29 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 0.75 0.75 0.75 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.27 0.22 0.27 1 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 5.49714 -224.78 -1.92039e-17 ]
-   nhpr [ 92 0 -0 ]
-   width [ 20.7 ]
-   wall [
-    height [ 12 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.27 0.17 0.31 1 ]
-    windows [
-     code [ "window_sm_curved_ur" ]
-     color [ 0.27 0.25 0.35 1 ]
-     count [ 1 ]
-    ]
-   ]
-   wall [
-    height [ 8 ]
-    code [ "wall_md_bricks_ur" ]
-    color [ 0.27 0.17 0.31 1 ]
-    windows [
-     code [ "window_sm_curvedDL_ul" ]
-     color [ 1 1 1 1 ]
-     count [ 2 ]
-    ]
-    cornice [
-     code [ "cornice_curved_ur" ]
-     color [ 0.31 0.29 0.36 1 ]
-    ]
-   ]
   ]
   prop "prop_cellar_door_DNARoot" [
    code [ "prop_cellar_door" ]
@@ -7463,7 +6923,7 @@ group "donaldsDreamland" [
   ]
   flat_building "tb0:flat_DNARoot" [
    pos [ 57.998 -229.28 2.14577e-06 ]
-   nhpr [ -30 0 0 ]
+   nhpr [ -30 0 -0 ]
    width [ 10 ]
    wall [
     height [ 13 ]
@@ -7602,11 +7062,579 @@ group "donaldsDreamland" [
    scale [ 1.46154 1.46154 1.46154 ]
    color [ 0.65 0.62 0.8 1 ]
   ]
+  flat_building "tb26:flat_DNARoot" [
+   pos [ 4.00085 -165.28 2.04636e-12 ]
+   nhpr [ -0 0 -0 ]
+   width [ 25 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curved2DL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:flat_DNARoot" [
+   pos [ 29.0002 -165.28 7.31836e-19 ]
+   nhpr [ -0 0 -0 ]
+   width [ 25 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curved2DL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:flat_DNARoot" [
+   pos [ 53.9989 -164.28 1.14441e-05 ]
+   nhpr [ -82 0 -0 ]
+   width [ 10 ]
+   wall [
+    height [ 12 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 61.1921 -142.652 -3.80218 ]
+   nhpr [ -0 0 -0 ]
+   width [ 20 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.34 0.25 0.25 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.31 0.16 0.29 1 ]
+    windows [
+     code [ "window_sm_roundDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 98.6011 -127.941 8.72127 ]
+   nhpr [ 15 0 -0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.31 0.16 0.29 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.27 0.25 0.35 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.31 0.16 0.29 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 91.135 -115.004 8.7213 ]
+   nhpr [ -60 0 -0 ]
+   width [ 15 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.37 0.27 0.36 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.27 0.25 0.35 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.37 0.27 0.36 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 144.83 -127.45 0.343344 ]
+   nhpr [ -0 0 -0 ]
+   width [ 10 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.26 0.19 0.13 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_roundDL_ur" ]
+     color [ 1 1 1 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 144.875 -117.577 0.343893 ]
+   nhpr [ -90 0 -0 ]
+   width [ 10 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.47 0.36 0.23 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.47 0.36 0.23 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.47 0.36 0.23 1 ]
+    windows [
+     code [ "window_sm_roundDL_ur" ]
+     color [ 1 1 1 1 ]
+     count [ 1 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 156.942 -134.308 9.98442 ]
+   nhpr [ -15 0 -0 ]
+   width [ 20 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_md_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb26:random_DNARoot" [
+   pos [ 164.602 -121.286 9.98442 ]
+   nhpr [ -120 0 -0 ]
+   width [ 15 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.39 0.42 0.3 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.33 0.3 0.29 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.39 0.42 0.3 1 ]
+    windows [
+     code [ "window_md_curvedDL_ur" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.39 0.42 0.3 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb27:flat_DNARoot" [
+   pos [ 5.49714 -224.78 -1.92039e-17 ]
+   nhpr [ 92 0 -0 ]
+   width [ 20.7 ]
+   wall [
+    height [ 12 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.27 0.17 0.31 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.27 0.25 0.35 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.27 0.17 0.31 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 1 1 1 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.31 0.29 0.36 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb27:flat_DNARoot" [
+   pos [ 5.49481 -244.78 -2.27376e-13 ]
+   nhpr [ 90 0 -0 ]
+   width [ 20.7 ]
+   wall [
+    height [ 20 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.31 0.16 0.29 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.27 0.25 0.35 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 10 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.31 0.16 0.29 1 ]
+    windows [
+     code [ "window_sm_curvedDL_ul" ]
+     color [ 0.75 0.75 0.75 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb27:flat_DNARoot" [
+   pos [ 8.81952 -263.961 2.38738e-12 ]
+   nhpr [ 100 0 -0 ]
+   width [ 20 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.26 0.19 0.13 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_md_blank_dr" ]
+    color [ 0.26 0.19 0.13 1 ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_roundDL_ul" ]
+     color [ 1 1 1 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb27:flat_DNARoot" [
+   pos [ -15.5007 -270.137 -5.68434e-14 ]
+   nhpr [ 15 0 -0 ]
+   width [ 25 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_md_blank_ur" ]
+    color [ 0.26 0.19 0.13 1 ]
+    windows [
+     code [ "window_sm_square_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_md_blank_dr" ]
+    color [ 0.26 0.19 0.13 1 ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_lg_brick_ur" ]
+    color [ 0.25 0.2 0.15 1 ]
+    windows [
+     code [ "window_sm_roundDL_ul" ]
+     color [ 1 1 1 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_marble_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb27:flat_DNARoot" [
+   pos [ -29.6426 -284.28 -2.27374e-13 ]
+   nhpr [ 45 0 -0 ]
+   width [ 20 ]
+   wall [
+    height [ 13 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.34 0.25 0.25 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 9 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.34 0.25 0.25 1 ]
+    windows [
+     code [ "window_sm_round_ur" ]
+     color [ 0.33 0.34 0.3 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.34 0.25 0.25 1 ]
+    windows [
+     code [ "window_md_curvedDL_ul" ]
+     color [ 1 1 1 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.27 0.22 0.27 1 ]
+    ]
+   ]
+  ]
+  flat_building "del" [
+   pos [ 67.1414 -233.185 2.99993 ]
+   nhpr [ -105 0 -0 ]
+   width [ 15 ]
+   wall [
+    height [ 12 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.47 0.38 0.32 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.31 0.25 0.24 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.47 0.38 0.32 1 ]
+    windows [
+     code [ "window_md_curvedDL_ul" ]
+     color [ 1 1 1 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.25 0.25 0.25 1 ]
+    ]
+   ]
+  ]
+  flat_building "tb0:flat_DNARoot" [
+   pos [ 66.2944 -232.916 2.9999 ]
+   nhpr [ -101 0 -0 ]
+   width [ 15 ]
+   wall [
+    height [ 12 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.47 0.38 0.32 1 ]
+    windows [
+     code [ "window_sm_curved_ur" ]
+     color [ 0.31 0.25 0.24 1 ]
+     count [ 1 ]
+    ]
+   ]
+   wall [
+    height [ 8 ]
+    code [ "wall_md_bricks_ur" ]
+    color [ 0.47 0.38 0.32 1 ]
+    windows [
+     code [ "window_md_curvedDL_ul" ]
+     color [ 1 1 1 1 ]
+     count [ 2 ]
+    ]
+    cornice [
+     code [ "cornice_curved_ur" ]
+     color [ 0.25 0.25 0.25 1 ]
+    ]
+   ]
+  ]
   prop "linktunnel_dl_9301_DNARoot" [
    code [ "prop_safe_zone_entrance_tunnel" ]
-   pos [ 4.99814 -304.28 3.97904e-12 ]
+   pos [ 4.9983 -304.28 4.52995e-06 ]
    nhpr [ 150 0 -0 ]
-   scale [ 1 1 1 ]
    sign [
     code [ "tunnel_sign_red" ]
     color [ 0.360784 0.309804 0.372549 1 ]
@@ -7684,24 +7712,45 @@ group "donaldsDreamland" [
      code [ "mickey" ]
      color [ 1 1 0.501961 1 ]
      pos [ 0 0 -0.83 ]
-     scale [ 1.4 1 1.5 ]
+     scale [ 1.2 1 1.4 ]
      width [ 50 ]
      height [ 50 ]
      flags [ "dc" ]
      text [
-      letters [ "W" ]
+      letters [ "L" ]
      ]
      text [
-      letters [ "i" ]
+      letters [ "U" ]
      ]
      text [
-      letters [ "n" ]
+      letters [ "L" ]
      ]
      text [
-      letters [ "k" ]
+      letters [ "L" ]
      ]
      text [
-      letters [ "y" ]
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "B" ]
+     ]
+     text [
+      letters [ "Y" ]
+     ]
+     text [
+      letters [ " " ]
+     ]
+     text [
+      letters [ "L" ]
+     ]
+     text [
+      letters [ "A" ]
+     ]
+     text [
+      letters [ "N" ]
+     ]
+     text [
+      letters [ "E" ]
      ]
      text [
       letters [ " " ]
@@ -7710,10 +7759,13 @@ group "donaldsDreamland" [
       letters [ "W" ]
      ]
      text [
-      letters [ "a" ]
+      letters [ "E" ]
      ]
      text [
-      letters [ "y" ]
+      letters [ "S" ]
+     ]
+     text [
+      letters [ "T" ]
      ]
     ]
    ]
@@ -15401,35 +15453,6 @@ group "donaldsDreamland" [
     ]
    ]
    flat_building "tb0:random_DNARoot" [
-    pos [ 81.1922 -142.652 -3.80218 ]
-    nhpr [ 90 0 -0 ]
-    width [ 15 ]
-    wall [
-     height [ 20 ]
-     code [ "wall_md_blank_ur" ]
-     color [ 0.25 0.25 0.25 1 ]
-     windows [
-      code [ "window_sm_round_ur" ]
-      color [ 0.33 0.34 0.3 1 ]
-      count [ 1 ]
-     ]
-    ]
-    wall [
-     height [ 10 ]
-     code [ "wall_md_bricks_ur" ]
-     color [ 0.25 0.25 0.25 1 ]
-     windows [
-      code [ "window_sm_roundDL_ul" ]
-      color [ 0.75 0.75 0.75 1 ]
-      count [ 2 ]
-     ]
-     cornice [
-      code [ "cornice_curved_ur" ]
-      color [ 0.27 0.22 0.27 1 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:random_DNARoot" [
     pos [ 115.071 -243.528 7.29242 ]
     nhpr [ 90 0 -0 ]
     width [ 10 ]
@@ -15455,6 +15478,35 @@ group "donaldsDreamland" [
       code [ "window_sm_squareDL_ul" ]
       color [ 0.75 0.75 0.75 1 ]
       count [ 1 ]
+     ]
+    ]
+   ]
+   flat_building "tb26:random_DNARoot" [
+    pos [ 81.1922 -142.652 -3.80218 ]
+    nhpr [ 90 0 -0 ]
+    width [ 15 ]
+    wall [
+     height [ 20 ]
+     code [ "wall_md_blank_ur" ]
+     color [ 0.25 0.25 0.25 1 ]
+     windows [
+      code [ "window_sm_round_ur" ]
+      color [ 0.33 0.34 0.3 1 ]
+      count [ 1 ]
+     ]
+    ]
+    wall [
+     height [ 10 ]
+     code [ "wall_md_bricks_ur" ]
+     color [ 0.25 0.25 0.25 1 ]
+     windows [
+      code [ "window_sm_roundDL_ul" ]
+      color [ 0.75 0.75 0.75 1 ]
+      count [ 2 ]
+     ]
+     cornice [
+      code [ "cornice_curved_ur" ]
+      color [ 0.27 0.22 0.27 1 ]
      ]
     ]
    ]
