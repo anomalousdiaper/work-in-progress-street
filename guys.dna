@@ -25825,37 +25825,3 @@ group "level" [
     ]
    ]
   ]
- ]
- group "del" [
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 929.471 -20.7438 5.55112e-17 ]
-   nhpr [ 0 0 0 ]
-   width [ 25 ]
-   wall [
-    height [ 10 ]
-    code [ "wall_fence_wood_ur" ]
-    color [ 0.29 0.35 0.45 1 ]
-    windows [
-     code [ "window_sm_shuttered_ur" ]
-     color [ 1 1 1 1 ]
-     count [ 0 ]
-    ]
-   ]
-  ]
-  flat_building "tb0:flat_DNARoot" [
-   pos [ 954.471 -20.743 5.55112e-17 ]
-   nhpr [ 0 0 0 ]
-   width [ 25 ]
-   wall [
-    height [ 10 ]
-    code [ "wall_fence_wood_ur" ]
-    color [ 0.29 0.35 0.45 1 ]
-    windows [
-     code [ "window_sm_shuttered_ur" ]
-     color [ 1 1 1 1 ]
-     count [ 0 ]
-    ]
-   ]
-  ]
- ]
-]
