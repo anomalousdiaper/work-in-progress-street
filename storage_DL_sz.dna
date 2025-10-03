@@ -68,6 +68,10 @@ place_model "modelsimade/drainage" [
 	store_node [ "prop" "drainage" "" ]
 	]
 
+place_model "modelsimade/drainagegrass" [
+	store_node [ "prop" "drainagegrass" "" ]
+	]
+
 place_model "phase_8/models/props/stairs_DG" [
 	store_node [ "prop" "prop_stairs_DG" "" ]
         ]
