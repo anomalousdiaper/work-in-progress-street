@@ -144,3 +144,7 @@ place_model "modelsimade/terrainnorth" [
 place_model "modelsimade/drainage" [
         store_node [ "prop" "drainage" "" ]
         ]
+
+place_model "modelsimade/drainagegrass" [
+	store_node [ "prop" "drainagegrass" "" ]
+	]
