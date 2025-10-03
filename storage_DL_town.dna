@@ -136,3 +136,7 @@ place_model "modelsimade/10x10grass" [
 place_model "phase_8/models/props/stairs_DG" [
 	store_node [ "prop" "prop_stairs_DG" "" ]
         ]
+
+place_model "modelsimade/terrainnorth" [
+	store_node [ "prop" "terrainnorth" "" ]
+	]
