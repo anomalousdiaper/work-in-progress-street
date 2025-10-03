@@ -140,3 +140,7 @@ place_model "phase_8/models/props/stairs_DG" [
 place_model "modelsimade/terrainnorth" [
 	store_node [ "prop" "terrainnorth" "" ]
 	]
+
+place_model "modelsimade/drainage" [
+        store_node [ "prop" "drainage" "" ]
+        ]
