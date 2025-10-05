@@ -4526,7 +4526,7 @@ group "level" [
    ]
    street "str.sidewalk_40x40_DNARoot" [
     code [ "street_sidewalk_40x40" ]
-    pos [ 860.066 -459.996 1.45519e-10 ]
+    pos [ 860.066 -459.996 7.03104e-24 ]
     nhpr [ -0 0 -0 ]
     texture [ "street_street_DL_tex" ]
     texture [ "street_sidewalk_DL_tex" ]
@@ -4646,7 +4646,7 @@ group "level" [
    ]
    street "str.sidewalk_40x40_DNARoot" [
     code [ "street_sidewalk_40x40" ]
-    pos [ 420.074 -380.003 1.45519e-10 ]
+    pos [ 420.074 -380.003 7.03104e-24 ]
     nhpr [ -0 0 -0 ]
     texture [ "street_street_DL_tex" ]
     texture [ "street_sidewalk_DL_tex" ]
@@ -4726,7 +4726,7 @@ group "level" [
    ]
    street "str.sidewalk_40x40_DNARoot" [
     code [ "street_sidewalk_40x40" ]
-    pos [ 780.075 -340.003 1.45519e-10 ]
+    pos [ 780.075 -340.003 1.45518e-10 ]
     nhpr [ -0 0 -0 ]
     texture [ "street_street_DL_tex" ]
     texture [ "street_sidewalk_DL_tex" ]
@@ -11315,7 +11315,7 @@ group "level" [
    ]
    flat_building "tb0:flat_DNARoot" [
     pos [ 831.987 -324.441 7.03104e-24 ]
-    nhpr [ 0 0 0 ]
+    nhpr [ -0 0 -0 ]
     width [ 15 ]
     wall [
      height [ 13 ]
@@ -12153,7 +12153,7 @@ group "level" [
    ]
    flat_building "tb0:flat_DNARoot" [
     pos [ 886.988 -374.442 7.03104e-24 ]
-    nhpr [ 180 0 -0 ]
+    nhpr [ -180 0 -0 ]
     width [ 20 ]
     wall [
      height [ 13 ]
@@ -13421,7 +13421,7 @@ group "level" [
    ]
    flat_building "tb0:flat_DNARoot" [
     pos [ 801.998 -469.978 7.03104e-24 ]
-    nhpr [ 180 0 -0 ]
+    nhpr [ -180 0 -0 ]
     width [ 25 ]
     wall [
      height [ 13 ]
@@ -15136,8 +15136,8 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ 575.999 -464.978 7.03104e-24 ]
-    nhpr [ 180 0 0 ]
+    pos [ 576.001 -464.977 7.03104e-24 ]
+    nhpr [ -180 0 -0 ]
     width [ 25 ]
     wall [
      height [ 13 ]
@@ -21879,8 +21879,8 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ 624.474 -339.728 7.44463e-24 ]
-    nhpr [ 0 0 0 ]
+    pos [ 624.474 -339.728 7.03104e-24 ]
+    nhpr [ -0 0 -0 ]
     width [ 25 ]
     wall [
      height [ 13 ]
@@ -22854,8 +22854,8 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ 564.474 -339.728 7.44463e-24 ]
-    nhpr [ 0 0 0 ]
+    pos [ 564.474 -339.728 7.03104e-24 ]
+    nhpr [ -0 0 -0 ]
     width [ 25 ]
     wall [
      height [ 13 ]
@@ -24453,7 +24453,7 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ 759.474 -339.728 7.44463e-24 ]
+    pos [ 759.475 -339.728 7.44463e-24 ]
     nhpr [ 0 0 0 ]
     width [ 25 ]
     wall [
@@ -33956,1326 +33956,6 @@ group "level" [
   ]
   group "fence" [
    flat_building "tb0:flat_DNARoot" [
-    pos [ 860.066 -384.997 1.45519e-10 ]
-    nhpr [ -90 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.066 -409.997 1.45519e-10 ]
-    nhpr [ -90 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.066 -434.997 1.45519e-10 ]
-    nhpr [ -90 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 835.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 810.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 785.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 760.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 735.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 710.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 685.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 660.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 635.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 610.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 585.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 560.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 535.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 510.066 -459.997 1.45519e-10 ]
-    nhpr [ -180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 485.066 -459.997 1.45519e-10 ]
-    nhpr [ 180 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 460.066 -459.997 1.45519e-10 ]
-    nhpr [ 90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 460.066 -434.997 1.45519e-10 ]
-    nhpr [ 90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 460.066 -409.997 1.45519e-10 ]
-    nhpr [ 90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 460.066 -384.997 1.45519e-10 ]
-    nhpr [ 90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 460.066 -359.997 1.45519e-10 ]
-    nhpr [ 90 0 -0 ]
-    width [ 20 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 460.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 485.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 510.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 535.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 560.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 585.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 610.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 635.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 660.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 685.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 710.067 -339.998 1.45519e-10 ]
-    nhpr [ -0 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 735.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 760.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 785.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 810.067 -339.998 1.45519e-10 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 835.067 -339.998 1.45519e-10 ]
-    nhpr [ -0 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.067 -339.998 1.45519e-10 ]
-    nhpr [ -90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.066 -364.998 1.45519e-10 ]
-    nhpr [ -90 0 -0 ]
-    width [ 20 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 790.471 -339.728 5.55112e-17 ]
-    nhpr [ -180 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 759.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 734.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 709.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 684.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 659.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 634.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 609.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 584.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 559.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 534.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 509.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 484.471 -339.728 5.55112e-17 ]
-    nhpr [ -180 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 459.471 -339.728 5.55112e-17 ]
-    nhpr [ -90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 459.471 -364.728 5.55112e-17 ]
-    nhpr [ -90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 459.471 -389.728 5.55112e-17 ]
-    nhpr [ -90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 459.471 -414.728 5.55112e-17 ]
-    nhpr [ -90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 459.471 -439.728 5.55112e-17 ]
-    nhpr [ -90 0 -0 ]
-    width [ 20.7 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 484.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 509.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 534.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 559.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 584.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 609.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 634.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 659.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 684.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 709.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 734.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.471 -460.428 5.55112e-17 ]
-    nhpr [ 90 0 0 ]
-    width [ 15 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 759.471 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 459.472 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 835.471 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 10 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 845.471 -460.428 5.55112e-17 ]
-    nhpr [ 0 0 0 ]
-    width [ 15 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 794.471 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 10 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 784.471 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 10 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 804.471 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 15.6 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 820.071 -460.428 5.55112e-17 ]
-    nhpr [ -0 0 -0 ]
-    width [ 15.6 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.471 -445.428 5.55112e-17 ]
-    nhpr [ 90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.471 -420.428 5.55112e-17 ]
-    nhpr [ 90 0 0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.471 -395.428 5.55112e-17 ]
-    nhpr [ 90 0 -0 ]
-    width [ 20 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.471 -375.428 5.55112e-17 ]
-    nhpr [ 90 0 -0 ]
-    width [ 15 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.47 -360.429 5.55112e-17 ]
-    nhpr [ 90 0 -0 ]
-    width [ 20.7 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 860.471 -339.728 5.55112e-17 ]
-    nhpr [ -180 0 -0 ]
-    width [ 20.7 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 840.471 -339.728 5.55112e-17 ]
-    nhpr [ 180 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
-    pos [ 815.471 -339.728 5.55112e-17 ]
-    nhpr [ -180 0 -0 ]
-    width [ 25 ]
-    wall [
-     height [ 10 ]
-     code [ "wall_fence_wood_ur" ]
-     color [ 0.29 0.35 0.45 1 ]
-     windows [
-      code [ "window_sm_shuttered_ur" ]
-      color [ 1 1 1 1 ]
-      count [ 0 ]
-     ]
-    ]
-   ]
-   flat_building "tb0:flat_DNARoot" [
     pos [ 187.985 29.8735 7.03104e-24 ]
     nhpr [ -0 0 -0 ]
     width [ 20 ]
@@ -36108,13 +34788,13 @@ group "level" [
    ]
    prop "drainage_DNARoot" [
     code [ "drainage" ]
-    pos [ 0.00075531 0 0 ]
+    pos [ 0.00170898 -0.000244141 6.31089e-30 ]
     nhpr [ -0 0 -0 ]
     color [ 0.75 0.75 0.75 1 ]
    ]
    prop "drainagegrass_DNARoot" [
     code [ "drainagegrass" ]
-    pos [ 4.57764e-05 0 0 ]
+    pos [ 0.00164795 -0.000671387 7.03104e-24 ]
     nhpr [ 0 0 0 ]
     color [ 0.47 0.49 0.66 1 ]
    ]
@@ -37937,6 +36617,489 @@ group "level" [
       code [ "window_sm_shuttered_ul" ]
       color [ 0.33 0.3 0.29 1 ]
       count [ 2 ]
+     ]
+    ]
+   ]
+  ]
+  
+  group "drainagefence" [
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.269 -369.798 7.03104e-24 ]
+    nhpr [ -90 0 -0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.27 -394.798 7.03104e-24 ]
+    nhpr [ -90 0 -0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.27 -409.798 7.03104e-24 ]
+    nhpr [ -90 0 -0 ]
+    width [ 20.7 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.27 -430.498 7.03104e-24 ]
+    nhpr [ -90 0 -0 ]
+    width [ 20.7 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.27 -451.198 7.03104e-24 ]
+    nhpr [ -90 0 -0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.27 -466.198 7.03104e-24 ]
+    nhpr [ -155 0 -0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 880.27 -368.797 7.03104e-24 ]
+    nhpr [ -175 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.494 -390.444 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 20.7 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.497 -410.742 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 20.7 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.497 -430.043 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.498 -455.043 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 851.45 -471.075 7.03104e-24 ]
+    nhpr [ 23 0 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.629 -467.274 7.03104e-24 ]
+    nhpr [ 90 0 0 ]
+    width [ 15.6 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 860.346 -370.54 7.03104e-24 ]
+    nhpr [ 5 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.074 -395.003 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.074 -370.003 7.03104e-24 ]
+    nhpr [ -180 0 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.074 -420.002 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.073 -445.001 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.072 -465.001 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.072 -480 7.03104e-24 ]
+    nhpr [ 90 0 -0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 450.072 -480 7.03104e-24 ]
+    nhpr [ -0 0 -0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.072 -480 7.03104e-24 ]
+    nhpr [ -180 0 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.072 -465 7.03104e-24 ]
+    nhpr [ -90 0 0 ]
+    width [ 15 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.072 -445.001 7.03104e-24 ]
+    nhpr [ -90 0 0 ]
+    width [ 20 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.073 -420.001 7.03104e-24 ]
+    nhpr [ -90 0 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.074 -395.002 7.03104e-24 ]
+    nhpr [ -90 0 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 460.074 -370.003 7.03104e-24 ]
+    nhpr [ -90 0 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 435.074 -370.003 7.03104e-24 ]
+    nhpr [ 0 0 0 ]
+    width [ 25 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 589.474 -339.728 7.03104e-24 ]
+    nhpr [ 0 0 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 599.474 -339.728 7.03104e-24 ]
+    nhpr [ 180 0 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 649.474 -339.728 7.03104e-24 ]
+    nhpr [ 0 0 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
+     ]
+    ]
+   ]
+   flat_building "tb0:flat_DNARoot" [
+    pos [ 659.474 -339.728 7.03104e-24 ]
+    nhpr [ 180 0 0 ]
+    width [ 10 ]
+    wall [
+     height [ 10 ]
+     code [ "wall_fence_wood_ur" ]
+     color [ 0.29 0.35 0.45 1 ]
+     windows [
+      code [ "window_sm_shuttered_ur" ]
+      color [ 1 1 1 1 ]
+      count [ 0 ]
      ]
     ]
    ]
