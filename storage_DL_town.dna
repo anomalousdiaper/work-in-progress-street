@@ -113,6 +113,10 @@ place_model "modelsimade/treebg" [
 	store_node [ "prop" "pine_tree_background" "" ]
 	]
 
+place_model "modelsimade/treemiddlebg" [
+	store_node [ "prop" "pine_tree_middlebg" "" ]
+	]
+
 place_model "modelsimade/treefat" [
 	store_node [ "prop" "pine_tree_fat" "" ]
 	]
