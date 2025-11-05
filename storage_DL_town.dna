@@ -32,6 +32,10 @@ place_model "phase_5/models/modules/street_low_fence" [
         store_node [ "prop" "fence_woodbrush_brick" "f_woodbrush_brick" ]
         ]
 
+place_model "modelsimade/sandbox" [
+	store_node [ "prop" "sandbox" "" ]
+	]
+
 place_model "phase_8/models/props/mailbox_DL" [
 	store_node [ "prop" "prop_DL_mailbox" ""]
 	]
