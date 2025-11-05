@@ -32,6 +32,10 @@ place_model "modelsimade/hedgequad" [
 	store_node [ "prop" "hedge" "" ]
 	]
 
+place_model "modelsimade/sandbox" [
+	store_node [ "prop" "sandbox" "" ]
+	]
+
 place_model "modelsimade/treetall" [
 	store_node [ "prop" "pine_tree_tall" "" ]
 	]
@@ -79,4 +83,3 @@ place_model "modelsimade/drainagegrass" [
 place_model "phase_8/models/props/stairs_DG" [
 	store_node [ "prop" "prop_stairs_DG" "" ]
         ]
-
