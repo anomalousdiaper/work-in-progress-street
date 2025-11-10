@@ -32,6 +32,10 @@ place_model "modelsimade/hedgequad" [
 	store_node [ "prop" "hedge" "" ]
 	]
 
+place_model "modelsimade/playscape" [
+	store_node [ "prop" "playscape" "" ]
+	]
+
 place_model "modelsimade/sandbox" [
 	store_node [ "prop" "sandbox" "" ]
 	]
