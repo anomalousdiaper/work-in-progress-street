@@ -36,6 +36,10 @@ place_model "modelsimade/sandbox" [
 	store_node [ "prop" "sandbox" "" ]
 	]
 
+place_model "modelsimade/playscape" [
+	store_node [ "prop" "playscape" "" ]
+	]
+
 place_model "phase_8/models/props/mailbox_DL" [
 	store_node [ "prop" "prop_DL_mailbox" ""]
 	]
