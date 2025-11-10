@@ -255,7 +255,7 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ -4.00033 0.00172614 0 ]
+    pos [ -4.00032 0.00172614 0 ]
     nhpr [ -0 0 -0 ]
     width [ 25 ]
     wall [
@@ -15093,7 +15093,7 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ 751.999 -539.978 7.03104e-24 ]
+    pos [ 751.998 -539.977 7.03102e-24 ]
     nhpr [ -0 0 -0 ]
     width [ 20 ]
     wall [
@@ -36524,7 +36524,7 @@ group "level" [
    ]
    prop "terrain_school_DNARoot" [
     code [ "terrain_school" ]
-    pos [ 5.34058e-05 0 0 ]
+    pos [ 6.86646e-05 0 0 ]
     nhpr [ -0 0 -0 ]
     color [ 0.47 0.49 0.66 1 ]
    ]
@@ -36533,6 +36533,24 @@ group "level" [
     pos [ 0.000137329 0 0 ]
     nhpr [ -0 0 -0 ]
     color [ 0.65 0.62 0.8 1 ]
+   ]
+   prop "pine_tree_middlebg_DNARoot" [
+    code [ "pine_tree_middlebg" ]
+    pos [ 1.52588e-05 0 0 ]
+    nhpr [ 0 0 0 ]
+    color [ 0.47 0.49 0.66 1 ]
+   ]
+   prop "sandbox_DNARoot" [
+    code [ "sandbox" ]
+    pos [ 5.34058e-05 0 0 ]
+    nhpr [ -0 0 -0 ]
+    color [ 0.47 0.49 0.66 1 ]
+   ]
+   prop "playscape_DNARoot" [
+    code [ "playscape" ]
+    pos [ 7.62939e-06 0 0 ]
+    nhpr [ 0 0 0 ]
+    color [ 0.47 0.49 0.66 1 ]
    ]
   ]
   group "school" [
@@ -38182,7 +38200,7 @@ group "level" [
     ]
    ]
    flat_building "tb0:flat_DNARoot" [
-    pos [ 299.997 -769.997 3.88578e-16 ]
+    pos [ 299.997 -769.995 3.88577e-16 ]
     nhpr [ 90 0 -0 ]
     width [ 25 ]
     wall [
@@ -38839,11 +38857,5 @@ group "level" [
     ]
    ]
   ]
- ]
- prop "pine_tree_middlebg_DNARoot" [
-  code [ "pine_tree_middlebg" ]
-  pos [ 1.52588e-05 0 0 ]
-  nhpr [ 0 0 0 ]
-  color [ 0.47 0.49 0.66 1 ]
  ]
 ]
